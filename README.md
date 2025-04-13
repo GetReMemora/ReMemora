@@ -15,7 +15,9 @@ Surfacing **forgotten functions**, **prompt snippets**, and **reusable component
 
 ## ReMemora Overview
 
-<iframe src="/assets/pdfs/rememora.pdf" width="100%" height="800px"></iframe>
+<iframe src="/assets/pdfs/rememora.pdf" width="100%" height="800px" style="border:1px solid #ccc;"></iframe>
+
+---
 
 ### The Story of the Name
 
