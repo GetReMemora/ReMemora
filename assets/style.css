@@ -1,0 +1,17 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  color: #333;
+}
+h1 {
+  color: #4D2D9D;
+}
+a {
+  color: #7742FF;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
