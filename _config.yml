@@ -5,3 +5,9 @@ description: >-
 baseurl: "" 
 url: "https://getrememora.github.io"
 theme: minima
+
+# 👇 These allow static assets (like your PDF) to be served
+include:
+  - assets/pdfs
+
+markdown: kramdown
