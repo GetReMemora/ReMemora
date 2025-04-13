@@ -1,8 +1,3 @@
----
-layout: default
-title: ReMemora Overview
----
-
 # ReMemora  
 **“Things I forgot I wrote.”**  
 *A code memory infrastructure for developers and teams.*
