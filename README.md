@@ -12,7 +12,11 @@ It’s like a second brain for your codebase.
 Surfacing **forgotten functions**, **prompt snippets**, and **reusable components**—from *your* projects and *your* team.
 
 ---
+
+## ReMemora Overview
+
 <iframe src="/assets/pdfs/rememora.pdf" width="100%" height="800px"></iframe>
+
 ---
 
 ### The Story of the Name
