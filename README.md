@@ -17,8 +17,6 @@ Surfacing **forgotten functions**, **prompt snippets**, and **reusable component
 
 <iframe src="/assets/pdfs/rememora.pdf" width="100%" height="800px"></iframe>
 
----
-
 ### The Story of the Name
 
 > ReMemora is short for “Remembering Memoranda”—but it’s also inspired by the **remora fish**, a clever creature that rides alongside larger hosts, remembering and adapting to its environment.  
